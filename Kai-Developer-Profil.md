@@ -26,7 +26,7 @@
 
 ---
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kai-Developer&show_icons=true&theme=c)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kai-Developer&show_icons=true&theme=tokyonight)
 
 ---
 
